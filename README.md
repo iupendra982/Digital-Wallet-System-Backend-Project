@@ -180,12 +180,6 @@ Passwords are securely stored using `bcrypt`.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🤝 Contributions
 
 Pull requests and stars are always welcome!
